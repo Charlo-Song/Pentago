@@ -15,4 +15,5 @@ To play with provided models, run the following script from the directory:
 python human_play.py  
 ```
 Have fun!
+```
 Group Members:宋立博，刘洋，王汝宁，陈祝
