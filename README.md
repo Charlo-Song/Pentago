@@ -16,4 +16,4 @@ python human_play.py
 ```
 Have fun!
 ```
-Group Members:宋立博，刘洋，王汝宁，陈祝
+Group Members:刘洋，宋立博，王汝宁，陈祝
